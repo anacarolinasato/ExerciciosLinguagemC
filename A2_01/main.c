@@ -27,7 +27,7 @@ int main()
 
     volume = calculaVolume(raio);
 
-    printf("O volume de um circulo com raio %f eh igual a %f",raio,volume);
+    printf("O volume do circulo com raio %f eh igual a %f",raio,volume);
 
     return 0;
 }
